@@ -1,4 +1,4 @@
-## Feelings Diary
+## Emotion-Diary
 
 A simple, responsive diary web app to record daily feelings and notes. Built with React and Vite, persisting data in LocalStorage.
 

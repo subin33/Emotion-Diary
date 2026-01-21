@@ -4,7 +4,7 @@ A simple, responsive diary web app to record daily feelings and notes. Built wit
 
 ### Screenshots / UI Preview
 
-<img src="./dist/thumbnail.png" alt="UI Preview" width="400" />
+<img src="./public/thumbnail.png" alt="UI Preview" width="400" />
 
 ### 주요 기능
 
